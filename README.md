@@ -1,7 +1,8 @@
-# TransDeeplab
-# Task : Water Body Segmentation using DeepLabV3plus
+# TransDeeplab Model
 
-This project implements water body segmentation using the DeepLabV3+ model. It includes code for training the model, evaluating its performance, and metrics calculations.
+# Task : Water Body Segmentation using Trans DeepLab model.
+
+This project implements water body segmentation using the Trans DeepLab model. It includes code for training the model, evaluating its performance, and metrics calculations.
 
 ## Files Required:
 
