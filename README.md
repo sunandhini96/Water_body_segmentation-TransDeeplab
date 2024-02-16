@@ -47,7 +47,8 @@ The project uses RGB satellite images and corresponding masks from Sentinel-2 A/
 
 <img width="888" alt="image" src="https://github.com/sunandhini96/Water_body_segmentation-TransDeeplab/assets/63030539/0d23610a-3f3f-4132-9bb3-1b8397d36f77">
 
-# Output: Four Sample input images with its True Mask, Predicted Mask for Trans DeepLab and Predicted Mask for DeepLab Model
+# Output: 
+### Four Sample input images with its True Mask, Predicted Mask for Trans DeepLab and Predicted Mask for DeepLab Model
 
 <img width="578" alt="image" src="https://github.com/sunandhini96/Water_body_segmentation-TransDeeplab/assets/63030539/f6531785-9c5f-4c78-9bff-ef682a8d4ee6">
 
