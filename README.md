@@ -4,6 +4,11 @@
 
 This project implements water body segmentation using the Trans DeepLab model. It includes code for training the model, evaluating its performance, and metrics calculations.
 
+# Problem Statement:
+Extracting water bodies from satellite images is challenging because water bodies can
+appear differently in satellite images. Water pixels have various colors and patterns,
+making it hard to tell them apart from other land features.
+
 ## Files Required:
 
 - `model.py`: TransDeepLab model
