@@ -32,6 +32,20 @@ python evaluation.py
 
 The project uses RGB satellite images and corresponding masks from Sentinel-2 A/B satellite. You can obtain the dataset https://www.kaggle.com/datasets/franciscoescobar/satellite-images-of-water-bodies
 
+### Example of RGB satellite image and true mask image 
+- (white pixels represent water and black pixels represents other than water in true mask)
+
+<img width="490" alt="image" src="https://github.com/sunandhini96/Water_body_segmentation-TransDeeplab/assets/63030539/66c66390-21b7-41ea-9504-d1509cea984b">
+
+
+## Methodology: Trans Deeplab Architecture
+
+<img width="888" alt="image" src="https://github.com/sunandhini96/Water_body_segmentation-TransDeeplab/assets/63030539/0d23610a-3f3f-4132-9bb3-1b8397d36f77">
+
+## Output: Four Sample input images with its True Mask, Predicted Mask for Trans DeepLab and Predicted Mask for DeepLab Model
+
+<img width="578" alt="image" src="https://github.com/sunandhini96/Water_body_segmentation-TransDeeplab/assets/63030539/f6531785-9c5f-4c78-9bff-ef682a8d4ee6">
+
 ## Citation:
 
 If you use this code in your research, please cite our recent paper for more details.
